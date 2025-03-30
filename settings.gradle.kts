@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ZalithRendererPlugin"
 include(":app")
+include("ltw")
  
