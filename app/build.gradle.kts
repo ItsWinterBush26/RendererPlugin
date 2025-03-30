@@ -87,4 +87,5 @@ android {
 }
 
 dependencies {
+    implementation(project(":LTW"))
 }
